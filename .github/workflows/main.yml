@@ -23,7 +23,7 @@ jobs:
         # The CLI command(s) for this job
         run: echo "Hello World"
 
-    check-documentation:
+    Check-Documentation:
       name: Check Documentation
       runs-on: ubuntu-latest
       steps:
